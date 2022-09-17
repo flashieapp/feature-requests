@@ -1,2 +1,2 @@
 # feature-requests
-Feature Requests
+## See [issues](https://github.com/flashieapp/feature-requests/issues)
